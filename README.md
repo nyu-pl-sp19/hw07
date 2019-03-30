@@ -71,8 +71,7 @@ submitting your solution to this problem, you may use the notation
    1. Calculate the set of free variables appearing in *t*.
 
 2. Using the definitions from class, compute the normal form of the
-   following lambda term and show that it is equal to *`true`*. Show
-   all β-reduction steps.
+   following lambda term. Show all β-reduction steps.
 
    *`iszero` (`mult` `0` `1`) `2` `3`*
 
