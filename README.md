@@ -327,7 +327,7 @@ representation. E.g. the code
 ```ocaml
 let t =
   Lambda ("x", BinOp (Mult, IntConst (2, dummy_pos),
-                      BinOp (Add, Var ("x", dummy_pos), IntConst (3, dummy_pos), dummy_pos),
+                      BinOp (Plus, Var ("x", dummy_pos), IntConst (3, dummy_pos), dummy_pos),
                       dummy_pos), dummy_pos)
 in
 string_of_term t
