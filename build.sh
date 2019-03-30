@@ -3,7 +3,7 @@
 set -e
 
 DIRS="-Is src"
-TARGET="src/miniml src/tests "
+TARGET="src/miniml src/hw07_spec "
 FLAGS="-cflag -g -lflag -g -libs str $DIRS"
 OCAMLBUILD=ocamlbuild
 
