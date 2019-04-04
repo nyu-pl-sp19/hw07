@@ -1,6 +1,6 @@
 ﻿# Homework 7 (30 Points + 5 Bonus Points)
 
-The deadline for Homework 7 is Friday, April 5, 6pm. The late
+The deadline for Homework 7 is ~Friday, April 5~ Sunday, April 7, 6pm. The late
 submission deadline is Thursday, April 11, 6pm.
 
 ## Getting the code template
